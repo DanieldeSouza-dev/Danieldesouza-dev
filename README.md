@@ -5,7 +5,7 @@
 </div>
 <br>
 
-<p align="center">Oi, me chamo Daniel. Sou de Salvador/BA. Sou designer e programador em Python/Ciência de Dados, movido pela curiosidade e pela paixão por resolver problemas de forma criativa. Pensa como um engenheiro e age como um designer.</p>
+<p align="center">Hi 👋, i'm Daniel from Salvador, Brazil. I'm a designer and Python/Data Science developer driven by curiosity and a passion for solving problems creatively. I think like an engineer and act like a designer.</p>
 
 ---
 
@@ -13,7 +13,6 @@
 
 <img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjN3MWQ1cnFodDM5MnNiNmt5OTRkMmI5YTV1bjk0NW5mcXF5YnU1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif"  />
 
-<br>
 
 <h3 align="left">Conect with me!</h3>
 
@@ -36,9 +35,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
 </div>
+<br clear="both">
 
 ---
-<h3 align="center">Github Stats</h3>
+<br clear="both">
+
+<h1 align="center">Github Stats</h>
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanieldeSouza-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -46,5 +50,3 @@
 </div>
 
 <br clear="both">
-
-
