@@ -15,8 +15,6 @@
 
 <img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjN3MWQ1cnFodDM5MnNiNmt5OTRkMmI5YTV1bjk0NW5mcXF5YnU1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif"  />
 
-<br>
-
 <h3 align="left">Conect with me!</h3>
 
 <div align="left">
