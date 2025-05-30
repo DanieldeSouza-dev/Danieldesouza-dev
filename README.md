@@ -49,8 +49,8 @@
 
 <div>
 	<a href="https//github.com/DanieldeSouza-dev">
-	<img height="180em" src"https//github-readme-stats.vercel.app/api?username=DanieldeSouza-dev&show_icons=true&theme=aura&include_all_commits=true&cout_private=true"/>
-	<img height="180em" src"https//github-readme-stats.vercel.app/api/top-langs/?username=DanieldeSouza-dev&layout=compact&langs_count=16&theme=aura"/>
+	<img height="180em" src="https//github-readme-stats.vercel.app/api?username=DanieldeSouza-dev&show_icons=true&theme=aura&include_all_commits=true&cout_private=true"/>
+	<img height="180em" src="https//github-readme-stats.vercel.app/api/top-langs/?username=DanieldeSouza-dev&layout=compact&langs_count=16&theme=aura"/>
 <div>
 
 <br clear="both">
