@@ -18,11 +18,11 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/danielde-souza/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=15141b&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=15141b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <a href="https://www.behance.net/danieldesouzadsgn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=15141b&logoColor=61ffca&labelColor=&style=for-the-badge" height="30" alt="behance logo"  />
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=15141b&logoColor=61ffca&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
   <a href="https://dribbble.com/DanieldeSouza" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=15141b&logoColor=61ffca&labelColor=&style=for-the-badge" height="30" alt="dribbble logo"  />
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=15141b&logoColor=61ffca&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
   </a>
 </div>
 
@@ -40,7 +40,7 @@
 ---
 <br clear="both">
 
-<h1 align="center">Github Stats</h1>
+<h3 align="center">Github Stats</h3>
 
 <br clear="both">
 
