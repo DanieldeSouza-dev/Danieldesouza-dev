@@ -47,9 +47,10 @@
 <br clear="both">
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanieldeSouza-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanieldeSouza-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="150" alt="languages graph"  />
-</div>
+<div>
+	<a href="https//github.com/DanieldeSouza-dev">
+	<img height="180em" src"https//github-readme-stats.vercel.app/api?username=DanieldeSouza-dev&show_icons=true&theme=aura&include_all_commits=true&cout_private=true"/>
+	<img height="180em" src"https//github-readme-stats.vercel.app/api/top-langs/?username=DanieldeSouza-dev&layout=compact&langs_count=16&theme=aura"/>
+<div>
 
 <br clear="both">
