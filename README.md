@@ -7,6 +7,7 @@
 
 <h3 align="center">Hi 👋, i'm Daniel from Salvador, Brazil. I'm a designer and Python/Data Science developer driven by curiosity and a passion for solving problems creatively. I think like an engineer and act like a designer.</h3>
 
+<br>
 ---
 
 <br>
