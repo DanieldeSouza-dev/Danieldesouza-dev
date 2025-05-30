@@ -47,10 +47,7 @@
 <br clear="both">
 <br clear="both">
 
-<div>
-	<a href="https//github.com/DanieldeSouza-dev">
-	<img height="180em" src="https//github-readme-stats.vercel.app/api?username=DanieldeSouza-dev&show_icons=true&theme=aura&include_all_commits=true&cout_private=true"/>
-	<img height="180em" src="https//github-readme-stats.vercel.app/api/top-langs/?username=DanieldeSouza-dev&layout=compact&langs_count=16&theme=aura"/>
-<div>
+![DanieldeSouza-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieldeSouza-dev&theme=aura&show_icons=true&hide_border=true&layout=compact)
+![DanieldeSouza-dev's Stats](https://github-readme-stats.vercel.app/api?username=DanieldeSouza-dev&theme=aura&show_icons=true&hide_border=true&count_private=true)
 
 <br clear="both">
