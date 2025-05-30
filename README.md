@@ -40,7 +40,7 @@
 ---
 <br clear="both">
 
-<h1 align="center">Github Stats</h>
+<h1 align="center">Github Stats</h1>
 
 <br clear="both">
 
