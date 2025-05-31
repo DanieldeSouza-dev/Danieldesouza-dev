@@ -54,3 +54,7 @@
 ![DanieldeSouza-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieldeSouza-dev&theme=aura&show_icons=true&hide_border=true&layout=compact)
 
 <br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<div>
