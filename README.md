@@ -27,10 +27,15 @@
   </a>
 </div>
 
-<h3 align="left">My Stacks and Programs~</h3>
+<h3 align="left">Programming Languages~</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+<h3 align="left">Design Softwares~</h3>
+
+<div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
