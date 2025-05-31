@@ -56,5 +56,5 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/DanieldeSouza-dev/DanieldeSouza-dev/output/snake.svg" alt="Snake animation" />
 <div>
