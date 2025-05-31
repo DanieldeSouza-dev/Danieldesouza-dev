@@ -54,8 +54,8 @@
 ![DanieldeSouza-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieldeSouza-dev&theme=aura&show_icons=true&hide_border=true&layout=compact)
 
 
-<div align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanieldeSouza-dev/DanieldeSouza-dev/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanieldeSouza-dev/DanieldeSouza-dev/output/snake-light.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/DanieldeSouza-dev/DanieldeSouza-dev/output/snake-light.svg" />
-<div>
+</picture>
