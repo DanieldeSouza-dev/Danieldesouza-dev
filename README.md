@@ -29,17 +29,18 @@
 
 <h3 align="left">Programming Languages~</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+<p align="left" dir="auto">
+    <a href="https://www.python.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" style="max-width: 100%;"></a>
+    <a href="https://www.oracle.com/java/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" style="max-width: 100%;"></a>
+    <a href="https://www.mysql.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" style="max-width: 100%;"></a>
+    <a href="https://www.postgresql.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" style="max-width: 100%;"></a>
 
 <h3 align="left">Design Softwares~</h3>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-</div>
+<p align="left" dir="auto">
+    <a href="https://www.adobe.com/br/products/photoshop.html?promoid=HZG8WST6&mv=other" rel="nofollow"><img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+    <a href="https://www.adobe.com/br/products/illustrator.html?promoid=JCNCWFM3&mv=other" rel="nofollow"><img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+    <a href="https://www.figma.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" height="40" alt="figmalogo"  />
 <br clear="both">
 
 ---
