@@ -27,18 +27,23 @@
   </a>
 </div>
 
-<h3 align="left">Programming Languages~</h3>
+<h3 align="left">Languages~</h3>
 
 <p align="left" dir="auto">
     <a href="https://www.python.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" style="max-width: 100%;"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="max-width: 100%;"></a>
     <a href="https://www.oracle.com/java/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" style="max-width: 100%;"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" style="max-width: 100%;"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow" class=""><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" style="max-width: 100%;"></a>
+    <a href="https://www.w3.org/TR/CSS/#css" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" style="max-width: 100%;"></a>
     <a href="https://www.mysql.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" style="max-width: 100%;"></a>
     <a href="https://www.postgresql.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" style="max-width: 100%;"></a>
 
-<h3 align="left">Design Softwares~</h3>
+<h3 align="left">Softwares~</h3>
 
 <p align="left" dir="auto">
+    <a href="https://www.jetbrains.com/pycharm/" rel="nofollow"><img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
+    <a href="https://www.jetbrains.com/pt-br/idea/" rel="nofollow"><img src="https://skillicons.dev/icons?i=idea" height="40" alt="intelij logo"  />
+    <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
     <a href="https://www.adobe.com/br/products/photoshop.html?promoid=HZG8WST6&mv=other" rel="nofollow"><img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
     <a href="https://www.adobe.com/br/products/illustrator.html?promoid=JCNCWFM3&mv=other" rel="nofollow"><img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
     <a href="https://www.figma.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" height="40" alt="figmalogo"  />
